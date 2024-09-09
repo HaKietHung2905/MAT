@@ -1,1 +1,2 @@
 pretrained/models/CelebA-HQ_256.pkl filter=lfs diff=lfs merge=lfs -text
+pretrained/models/*.pkl filter=lfs diff=lfs merge=lfs -text
